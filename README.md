@@ -7,3 +7,4 @@ Advent of Code 2020 solutions, mostly in modern Javascript.
 * [**Day 3**](https://starboard.gg/nb/nLjayUM)
 * [**Day 4**](https://starboard.gg/nb/nwLFWW2)
 * [**Day 5**](https://starboard.gg/nb/nFE03zM)
+* [**Day 6**](https://starboard.gg/nb/n9VgSS2)
