@@ -10,3 +10,5 @@ Advent of Code 2020 solutions, mostly in modern Javascript.
 * [**Day 6**: Custom Customs](https://starboard.gg/nb/n9VgSS2)
 * [**Day 7**: Handy Haversacks](https://starboard.gg/nb/nEtEeVV)
 * [**Day 8**: Handheld Halting](https://starboard.gg/nb/nRLOyaN)
+* [**Day 9**: Encoding Error](https://starboard.gg/nb/nBbt6uH)
+
