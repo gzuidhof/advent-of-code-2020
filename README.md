@@ -11,4 +11,5 @@ Advent of Code 2020 solutions, mostly in modern Javascript.
 * [**Day 7**: Handy Haversacks](https://starboard.gg/nb/nEtEeVV)
 * [**Day 8**: Handheld Halting](https://starboard.gg/nb/nRLOyaN)
 * [**Day 9**: Encoding Error](https://starboard.gg/nb/nBbt6uH)
-
+* [**Day 10**: Adapter Array](https://starboard.gg/nb/n37pIaL)
+* [**Day 11**: Seating System](https://starboard.gg/nb/nujKxGr)
