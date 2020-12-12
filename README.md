@@ -13,3 +13,4 @@ Advent of Code 2020 solutions, mostly in modern Javascript.
 * [**Day 9**: Encoding Error](https://starboard.gg/nb/nBbt6uH)
 * [**Day 10**: Adapter Array](https://starboard.gg/nb/n37pIaL)
 * [**Day 11**: Seating System](https://starboard.gg/nb/nujKxGr)
+* [**Day 12**: Rain Risk](https://starboard.gg/nb/n5uzQtM)
