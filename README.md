@@ -14,3 +14,6 @@ Advent of Code 2020 solutions, mostly in modern Javascript.
 * [**Day 10**: Adapter Array](https://starboard.gg/nb/n37pIaL)
 * [**Day 11**: Seating System](https://starboard.gg/nb/nujKxGr)
 * [**Day 12**: Rain Risk](https://starboard.gg/nb/n5uzQtM)
+* [**Day 13**:](https://starboard.gg/nb/nVLz4xg)
+* [**Day 14**:](https://starboard.gg/nb/nFbezqN)
+* [**Day 15**: Rambunctious Recitation](https://starboard.gg/nb/nRAAcmA)
